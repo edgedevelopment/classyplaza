@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+a {
+  color: #CE8080;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #CE8080;
+  color: #fff;
+   font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  
+}
+
+.navbar {
+  padding: 0 0 6.6rem;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+  padding-bottom: 40px;
+}
+
+.nav-link {
+   font-family: 'Montserrat', sans-serif;
+  padding-bottom: 40px;
+  font-size: 1.2rem;
+}
+
+#mont {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+  
+
+}
+.head {
+  margin: 5% 3% 5% 0;
+}
+
+#about {
+  text-align: center;
+  background-color: #fff;
+  color: #CE8080;
+}
+.heading {
+  font-size: 4rem;
+  font-weight: bold;
+}
+.about-text {
+  font-size: 2rem;
+}
+#features {
+  background-color: #CE8080;
+  color: #fff;
+}
+.col-md-3 {
+  margin: 10px auto;
+  text-align: center;
+}
+.row {
+    margin-bottom: 60px;
+}
+#feature-text {
+       font-size: 30px;
+       font-weight: bold;
+      font-family: "Montserrat";
+}
+
+
+.gall {
+  border-radius: 50%;
+}
+#gallery {
+  text-align: center;
+  background-color: #CE8080;
+  color: #fff;
+}
+
+.gallery-image {
+  width: 300px;
+  height: 300px;
+  margin: 20px;
+}
+
+#invite {
+  text-align: center;
+  background-color: #CE8080;
+  color: #fff;
+}
+#pricing {
+  text-align: center;
+  background-color: #fff;
+  color: #CE8080;
+}
+#mont {
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+
+}
+#contact {
+  background-color: #fff;
+  color: #CE8080;
+}
+.mani-pedi {
+  border: 2px solid #fff;
+  text-align: center;
+  box-sizing: border-box;
+
+}
+
+.gel {
+  column-count: 2;
+  text-align: center;
+}
+.hair-consult {
+  border: 2px solid #fff;
+  text-align: center;
+  box-sizing: border-box;
+  
+}
+#list {
+  background-color: #CE8080;
+  color: #fff;
+}
+
+.row {
+    margin-bottom: 60px;
+}
+
+.images-col{
+  text-align: center;
+}
+
+.container-fluid1 {
+padding: 2% 7%;
+}
+/*Pricing Section*/
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+  
+}
+.pricing-col {
+  padding: 3% 2%;
+}
+.btn-dark .btn-outline:hover {
+  width: 100%;
+}
+
+.gotopbtn {
+  position: sticky;
+  width: 30px;
+  height: 30px;
+  background: grey;
+  bottom: 40px;
+  right: 50px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 22px;
+}
+
+
+
+/*Footer Section*/
+#contact {
+  background-color: #fff;
+  text-align: center;
+
+}
+.social-icon {
+  margin: 20px 40px;
+
+  
+}
+#footer {
+  background-color: #CE8080;
+  color: #fff;
+  text-align: center;
+}
+.footer-link {
+  color: #fff;
+  
+  
+}
