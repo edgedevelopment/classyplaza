@@ -129,6 +129,10 @@ p {
   line-height: 1.5;
 
 }
+.appointment {
+  text-align: center;
+}
+
 #contact {
   background-color: #fff;
   color: #CE8080;
